@@ -1,4 +1,5 @@
-![I am a App Developer]https://www.canva.com/design/DAE27Z5iOTs/C1dpltGSKq5MpE_FuI6oWg/view?utm_content=DAE27Z5iOTs&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)
+![I am a App Developer]![Uploading Aminul Jabed.png…]()
+)
 
 
 # Hi there 👋, I'm Jabed
@@ -13,6 +14,7 @@ Skills: Darrt/ Flutter
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about App Development 
 - 📫 How to reach me: mdaminulhaquejabed@gmail.com 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jabed003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-aminul-haque-jabed-240906203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aminuljabed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AminulJabed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AminulJabed)  
