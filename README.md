@@ -1,4 +1,4 @@
-![I am a App Developer](https://www.canva.com/design/DAE27Z5iOTs/C1dpltGSKq5MpE_FuI6oWg/view?utm_content=DAE27Z5iOTs&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)
+![I am a App Developer]https://www.canva.com/design/DAE27Z5iOTs/C1dpltGSKq5MpE_FuI6oWg/view?utm_content=DAE27Z5iOTs&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)
 
 
 # Hi there 👋, I'm Jabed
@@ -8,7 +8,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Darrt/ Flutter
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Online.
 - 🌱 I’m currently learning Dart & Flutter 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about App Development 
